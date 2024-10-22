@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+.card-title-container {
+    width: fit-content;
+    height: auto;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 2rem;
+    justify-content: center;
+    margin-bottom: 20px;
+}
